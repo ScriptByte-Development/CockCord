@@ -1,0 +1,2 @@
+# CockCord
+Public CockCord repo
